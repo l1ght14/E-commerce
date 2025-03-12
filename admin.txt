@@ -1,0 +1,10 @@
+user: admin
+pass: ekart@456
+
+To install requirement
+pip install -r requirements.txt
+
+
+To start server
+python manage.py runserver
+http://localhost:8000/
